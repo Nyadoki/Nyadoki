@@ -16,11 +16,7 @@
 
 <i> Pronouns: [she/her/hers](https://pronoun.is/she) </i>
 
-<h5 align="center">
-    <b size="10px">-~ Recommend Projects ~-</b>
-</h4>
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Icalingua-plus-plus&repo=Icalingua-plus-plus)](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus)
 
 <!---
 我曾努力拼搏，我曾奋发进取，是否为人所知
@@ -33,6 +29,8 @@
 --->
 
 
-[![Tencent QQ](https://img.shields.io/badge/-23162625368-FFC0CB?logo=tencentqq&logoColor=white&style=for-the-badge)](https://qm.qq.com/cgi-bin/qm/qr?k=xfZnhNYoyZUSlceUNqXVe48_ztJKiKnz&noverify=0)  
+
+[![Tencent QQ](https://img.shields.io/badge/-2316262536-FFC0CB?logo=tencentqq&logoColor=white&style=for-the-badge)](https://qm.qq.com/cgi-bin/qm/qr?k=xfZnhNYoyZUSlceUNqXVe48_ztJKiKnz&noverify=0)  
 [![Github](https://img.shields.io/badge/-Nyaie-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Nyaie)  
 [![Matrix](https://img.shields.io/badge/-@yuexian:matrix.org-0DBD8B?logo=matrix&logoColor=white&style=for-the-badge)](https://matrix.to/#/@yuexian:matrix.org)
+
