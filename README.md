@@ -1,13 +1,9 @@
-<div href="#">
-  <img align="right" src="github-metrics.svg" />
-</div>
+
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=FD12FFB8&lines=%E4%BD%A0%E5%A5%BD!%E6%88%91%E6%98%AFNyaie;Hey!I'm+Nyaie;Nice+to+meet+you~)](https://git.io/typing-svg)
-
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-
-  <i>a.k.a.</i> [伊织](https://lovelynya.neocities.org/)
+<i>a.k.a.</i> [伊织](https://lovelynya.neocities.org/)
 
 亚萨兮（ゆうじゅう），但又笨又矮，吃得还少，易得病（<del>身轻体弱易推倒</del>）
 
@@ -35,3 +31,7 @@
 <i>
  
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=FF1EBF85&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&lines=I+hate+myself;damn+me)](https://git.io/typing-svg)
+
+<div href="#">
+  <img align="right" src="github-metrics.svg" />
+</div>
