@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=FD12FFB8&lines=%E4%BD%A0%E5%A5%BD!%E6%88%91%E6%98%AFNyaie;Hey!I'm+Nyaie;Nice+to+meet+you~)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=FD12FFB8&lines=%E4%BD%A0%E5%A5%BD!%E6%88%91%E6%98%AFNaynna;Hey!I'm+Naynna;Nice+to+meet+you~)](https://git.io/typing-svg)
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <i>a.k.a.</i> [伊织](https://lovelynya.neocities.org/)
