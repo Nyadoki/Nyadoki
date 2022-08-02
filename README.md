@@ -3,7 +3,7 @@
 
 <i>a.k.a.</i> [伊织](https://lovelynya.neocities.org/)   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-亚萨兮（ゆうじゅう），但又笨又矮，吃得还少，易得病（<del>身轻体弱易推倒</del>）
+亚萨兮（ゆうじゅう），但又笨又矮，吃得还少，易得病
 
 <i> Pronouns: [she/her/hers](https://pronoun.is/she) </i>
 
