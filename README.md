@@ -1,9 +1,7 @@
 
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=25&color=F760F4&lines=%E6%B3%A5%E5%A5%BD%EF%BC%81%E6%88%91%E7%B4%A0+Naynna;Hey%2CI'm+Naynna;Nice+to+meet+you~)](https://git.io/typing-svg)
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=FD12FFB8&lines=%E4%BD%A0%E5%A5%BD!%E6%88%91%E6%98%AFNaynna;Hey!I'm+Naynna;Nice+to+meet+you~)](https://git.io/typing-svg)
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
-<i>a.k.a.</i> [伊织](https://lovelynya.neocities.org/)
+<i>a.k.a.</i> [伊织](https://lovelynya.neocities.org/)   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 亚萨兮（ゆうじゅう），但又笨又矮，吃得还少，易得病（<del>身轻体弱易推倒</del>）
 
@@ -30,7 +28,7 @@
 <div align="right">
 <i>
  
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=FF1EBF85&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&lines=I+hate+myself;damn+me)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=EBACF7&lines=I+hate+myself;damn+me)](https://git.io/typing-svg)
 
 <div href="#">
   <img align="right" src="github-metrics.svg" />
