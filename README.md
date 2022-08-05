@@ -19,7 +19,3 @@
 <i>
  
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=EBACF7&lines=I+hate+myself;damn+me)](https://git.io/typing-svg)
-
-<div href="#">
-  <img align="right" src="github-metrics.svg" />
-</div>
