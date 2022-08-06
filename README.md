@@ -1,5 +1,5 @@
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=25&color=F760F4&lines=%E6%B3%A5%E5%A5%BD%EF%BC%81%E6%88%91%E7%B4%A0+Naynna;Hey%2CI'm+Naynna;Nice+to+meet+you~)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=E976F7D9&lines=%E6%B3%A5%E5%90%BC%EF%BC%81%E6%83%B9%E7%B4%A0+Naynna;Hello%2CI'm+Naynna;Nice+to+meet+you+~)](https://git.io/typing-svg)
 
 <i>a.k.a.</i> [伊织](https://lovelynya.neocities.org/)   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
@@ -18,4 +18,4 @@
 <div align="right">
 <i>
  
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=EBACF7&lines=I+hate+myself;damn+me)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Inspiration&color=E976F7D9&lines=Buckled+up+on+velvet+seatsy;Sceneries+were+passping+by;Lite+is+allowing+youself;Lite+is+to+consume;Etenally+in+hell+we+live;By+default)](https://git.io/typing-svg)
