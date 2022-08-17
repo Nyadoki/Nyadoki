@@ -25,3 +25,6 @@
 <i>
  
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Inspiration&color=E976F7D9&lines=Buckled+up+on+velvet+seatsy;Sceneries+were+passping+by;Lite+is+allowing+youself;Lite+is+to+consume;Etenally+in+hell+we+live;By+default)](https://git.io/typing-svg)
+
+ [![Naynna activity graph](https://activity-graph.herokuapp.com/graph?username=Naynna)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
