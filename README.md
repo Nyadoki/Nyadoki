@@ -8,12 +8,6 @@
 <i> Pronouns: [she/her/hers](https://pronoun.is/she) </i>
 
 
- 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Naynna&repo=mirai-AutiRefresh-plugin)](ttps://github.com/Naynna/mirai-AutiRefresh-plugin)
-
-我首个使用Kotlin开发的Mirai插件 ヾ(❛ᴗ˂ )
-
-
 
 [![Tencent QQ](https://img.shields.io/badge/-2316262536-FFC0CB?logo=tencentqq&logoColor=white&style=for-the-badge)](https://qm.qq.com/cgi-bin/qm/qr?k=xfZnhNYoyZUSlceUNqXVe48_ztJKiKnz&noverify=0)
 [![Github](https://img.shields.io/badge/-Naynna-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Naynna) 
