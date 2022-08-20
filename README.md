@@ -1,3 +1,6 @@
+<div href="#">
+  <img align="right" <img src="https://github-readme-stats.vercel.app/api?username=Naynna&show_icons=true&icon_color=E91E63&title_color=FB7299&hide_border=true"  />
+</div>
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=E976F7D9&lines=%E6%B3%A5%E5%90%BC%EF%BC%81%E6%83%B9%E7%B4%A0+Naynna;Hello%2CI'm+Naynna;Nice+to+meet+you+~)](https://git.io/typing-svg)
 
@@ -6,8 +9,6 @@
 亚萨兮（ゆうじゅう），但又笨又矮，吃得还少，易得病（<del>身轻体弱易推倒</del>）
 
 <i> Pronouns: [she/her/hers](https://pronoun.is/she) </i>
-
-
 
 [![Tencent QQ](https://img.shields.io/badge/-2316262536-FFC0CB?logo=tencentqq&logoColor=white&style=for-the-badge)](https://qm.qq.com/cgi-bin/qm/qr?k=xfZnhNYoyZUSlceUNqXVe48_ztJKiKnz&noverify=0)
 [![Github](https://img.shields.io/badge/-Naynna-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Naynna) 
