@@ -23,3 +23,4 @@
 
  [![Naynna activity graph](https://activity-graph.herokuapp.com/graph?username=Naynna)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
+![snake](https://raw.githubusercontent.com/Naynna/Naynna/output/github-contribution-grid-snake.svg)
