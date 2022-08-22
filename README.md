@@ -1,8 +1,8 @@
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=E976F7D9&lines=%E6%B3%A5%E5%90%BC%EF%BC%81%E6%83%B9%E7%B4%A0+Naynna;Hello%2CI'm+Naynna;Nice+to+meet+you+~)](https://git.io/typing-svg)
+
 <div href="#">
   <img align="right" <img src="https://github-readme-stats.vercel.app/api?username=Naynna&show_icons=true&icon_color=E91E63&title_color=FB7299&hide_border=true"  />
 </div>
-
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=E976F7D9&lines=%E6%B3%A5%E5%90%BC%EF%BC%81%E6%83%B9%E7%B4%A0+Naynna;Hello%2CI'm+Naynna;Nice+to+meet+you+~)](https://git.io/typing-svg)
 
 <i>a.k.a.</i> [伊织](https://lovelynya.neocities.org/)   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
