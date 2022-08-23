@@ -4,11 +4,15 @@
   <img align="right" <img src="https://github-readme-stats.vercel.app/api?username=Naynna&show_icons=true&icon_color=E91E63&title_color=FB7299&hide_border=true"  />
 </div>
 
-<i>a.k.a.</i> [伊织](https://lovelynya.neocities.org/)   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<i>a.k.a.</i> [lilac](https://lovelynya.neocities.org/)   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 亚萨兮（ゆうじゅう），但又笨又矮，吃得还少，易得病（<del>身轻体弱易推倒</del>）
 
-<i> Pronouns: [she/her/hers](https://pronoun.is/she) </i>
+喜欢的事情是唱歌，不喜欢的动物是虫子
+
+<del> 比如节肢生物和蛇等之类的 甚至达到看到summary的那条都会感到很害怕的境界 </del>
+
+<i> Pronouns: [she/her](https://pronoun.is/she) </i>
 
 [![Tencent QQ](https://img.shields.io/badge/-2316262536-FFC0CB?logo=tencentqq&logoColor=white&style=for-the-badge)](https://qm.qq.com/cgi-bin/qm/qr?k=xfZnhNYoyZUSlceUNqXVe48_ztJKiKnz&noverify=0)
 [![Github](https://img.shields.io/badge/-Naynna-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Naynna) 
