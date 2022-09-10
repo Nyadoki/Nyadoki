@@ -11,11 +11,6 @@
 [![Github](https://img.shields.io/badge/-Naynna-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Naynna) 
 [![MyMail](https://img.shields.io/badge/-naynna.eu.org-DA70D6?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:i@naynna.eu.org)
 
-<div href="#">
-这是共用号，我本人事实上不常在网易云听音乐
-  <img align="right" <img src="https://cdn.jsdelivr.net/gh/Naynna/netease-cloud-music-card/card.svg"  />
-</div>
-
 <details>
 <summary></summary>
 <div align="right">
