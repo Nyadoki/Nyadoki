@@ -15,6 +15,11 @@
 <summary></summary>
 <div align="right">
 <i>
+ 
+<div href="#">
+这是共用号，我本人事实上不常在网易云听音乐
+  <img align="right" <img src="https://cdn.jsdelivr.net/gh/Naynna/netease-cloud-music-card/card.svg"  />
+</div>
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=Naynna)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
