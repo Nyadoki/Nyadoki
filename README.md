@@ -1,7 +1,5 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Dancing+Script&color=E976F7D9&lines=%E6%B3%A5%E5%90%BC%EF%BC%81%E6%83%B9%E7%B4%A0+Naynna;Hello%2CI'm+Naynna;Nice+to+meet+you+~)](https://git.io/typing-svg)
 
-
-<i>a.k.a.</i> [lilac](https://naynna.eu.org/) <i>or</i> [nya](https://yuexian.eu.org/)  
+<i>a.k.a.</i> [lilac](https://naynna.eu.org/) 
 
 亚萨兮（やさしい），但又笨又矮，吃得还少，易得病（<del>身轻体弱易推倒</del>）
 
@@ -12,15 +10,15 @@
 [![MyMail](https://img.shields.io/badge/-naynna.eu.org-DA70D6?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:i@naynna.eu.org)
 
 <details>
-<summary></summary>
+<summary>Status</summary>
 <div align="right">
 <i>
- 
 <div href="#">
-这是共用号，我本人事实上不常在网易云听音乐
+<i>这是共用号，我本人事实上不常在网易云听音乐<li>
   <img align="right" <img src="https://cdn.jsdelivr.net/gh/Naynna/netease-cloud-music-card/card.svg"  />
 </div>
-
+ 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=Naynna)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 ![snake](https://raw.githubusercontent.com/Naynna/Naynna/output/github-contribution-grid-snake.svg)
+</div>
