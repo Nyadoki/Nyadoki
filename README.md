@@ -19,8 +19,3 @@ _Nyah!_
 <i>这是共用号，我本人事实上不常在网易云听音乐<li>
   <img align="right" <img src="https://cdn.jsdelivr.net/gh/Naynna/netease-cloud-music-card/card.svg"  />
 </div>
- 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=Naynna)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
-![snake](https://raw.githubusercontent.com/Naynna/Naynna/output/github-contribution-grid-snake.svg)
-</div>
