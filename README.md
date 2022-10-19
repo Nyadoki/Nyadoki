@@ -10,3 +10,16 @@ _Nyah!_
 [![Tencent QQ](https://img.shields.io/badge/-2316262536-F49898?logo=tencentqq&logoColor=white&style=for-the-badge)](https://qm.qq.com/cgi-bin/qm/qr?k=xfZnhNYoyZUSlceUNqXVe48_ztJKiKnz&noverify=0)
 [![Github](https://img.shields.io/badge/-Naynna-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Naynna) 
 [![MyMail](https://img.shields.io/badge/-naynna.eu.org-DA70D6?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:i@naynna.eu.org)
+
+
+<details>
+<summary>Status</summary>
+<div align="right">
+  
+<div href="#">
+
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=Naynna)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![snake](https://cdn.jsdelivr.net/gh/Naynna/Naynna@output/github-contribution-grid-snake.svg)
+
+</div>
