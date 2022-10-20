@@ -18,8 +18,8 @@ _Nyah!_
   
 <div href="#">
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=Naynna)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://activity-graph.herokuapp.com/graph?username=Naynna" />
 
-![snake](https://cdn.jsdelivr.net/gh/Naynna/Naynna@output/github-contribution-grid-snake.svg)
+<img src="https://i.naynna.eu.org/github-contribution-grid-snake.svg" />
 
 </div>
