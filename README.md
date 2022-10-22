@@ -24,6 +24,6 @@ _Nyah!_
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Naynna" />
 
-<img src="https://i.naynna.eu.org/github-contribution-grid-snake.svg" />
+<img src="https://i.naynna.eu.org/snake.svg" />
 
 </div>
