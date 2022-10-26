@@ -11,10 +11,6 @@ _Nyah!_
 [![Github](https://img.shields.io/badge/-Naynna-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Naynna) 
 [![MyMail](https://img.shields.io/badge/-lilac.eu.org-DA70D6?logo=Mail.RU&logoColor=white&style=for-the-badge)](mailto:me@lilac.eu.org)
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
 <details>
 <summary>Status</summary>
 <div align="right">
